@@ -15,7 +15,6 @@
 		47DFF4CB1D711A6800F13696 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47DFF4C91D711A6800F13696 /* LaunchScreen.storyboard */; };
 		47DFF4D61D711ABF00F13696 /* HSTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 47DFF4D31D711ABF00F13696 /* HSTableView.m */; };
 		47DFF4D71D711ABF00F13696 /* HSTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 47DFF4D51D711ABF00F13696 /* HSTableViewCell.m */; };
-		47DFF4DA1D711B9600F13696 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 47DFF4D91D711B9600F13696 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		47DFF4D31D711ABF00F13696 /* HSTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSTableView.m; sourceTree = "<group>"; };
 		47DFF4D41D711ABF00F13696 /* HSTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSTableViewCell.h; sourceTree = "<group>"; };
 		47DFF4D51D711ABF00F13696 /* HSTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSTableViewCell.m; sourceTree = "<group>"; };
-		47DFF4D91D711B9600F13696 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		47DFF4DB1D711D2B00F13696 /* Macro.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Macro.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,7 +76,6 @@
 				47DFF4C91D711A6800F13696 /* LaunchScreen.storyboard */,
 				47DFF4CC1D711A6800F13696 /* Info.plist */,
 				47DFF4BB1D711A6800F13696 /* Supporting Files */,
-				47DFF4D91D711B9600F13696 /* README.md */,
 			);
 			path = LmCustomClasses;
 			sourceTree = "<group>";
@@ -180,7 +177,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47DFF4DA1D711B9600F13696 /* README.md in Sources */,
 				47DFF4C31D711A6800F13696 /* ViewController.m in Sources */,
 				47DFF4D71D711ABF00F13696 /* HSTableViewCell.m in Sources */,
 				47DFF4C01D711A6800F13696 /* AppDelegate.m in Sources */,
@@ -340,6 +336,7 @@
 				47DFF4D11D711A6800F13696 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
